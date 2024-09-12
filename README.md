@@ -7,9 +7,7 @@ NTHN_KLTN
 ## Mail: 20166050@st.hcmuaf.edu.vn / nguyenthihuynhnhu271025@gmail.com
 
 Bộ dữ liệu thứ cấp MyAnimeList của Kaggle được tải lên năm 2020 bởi 
-QUANG-VINH DO tại https://www.kaggle.com/datasets/qvinhdo/myanimelist được 
-thể hiện như Hình 1:
-Hình 1: Dữ liệu thứ cấp MyAnimeList
+QUANG-VINH DO tại https://www.kaggle.com/datasets/qvinhdo/myanimelist 
 Tập dữ liệu với dung lượng khoảng 943 MB chứa tập hợp các anime, người dùng 
 và xếp hạng được lấy từ MyAnimeList.net. Tập dữ liệu này chứa 4 tệp.
 - animes.csv: gồm 17058 phim hoạt hình chứa thông tin về tiêu đề, anime_id, 
